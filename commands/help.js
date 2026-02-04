@@ -252,7 +252,7 @@ Join our channel for updates:`;
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'AnoymousBot MD by Bashiri Tech',
+                        newsletterName: 'AnoymousBot MD by Mr Bashiri Tech',
                         serverMessageId: -1
                     } 
                 }
