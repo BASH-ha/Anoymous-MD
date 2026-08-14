@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div>   
 
 <div align="center">   
-  <img src="https://d.uguu.se/GUDLScQa.jpg" alt="Anonymous Bot" height="300">   
+  <img src="https://files.catbox.moe/1hm57z.png" alt="Anonymous Bot" height="300">   
 </div>  
 
 ---
