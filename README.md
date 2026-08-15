@@ -1,6 +1,6 @@
-# 🤖 Anonymous Bot  
+🤖 Anonymous Bot
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.  
+This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center">   
   <a href="https://git.io/typing-svg">   
@@ -14,9 +14,9 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ---
 
-## 🚀 Steps to Deploy Bot  
+🚀 Deployment
 
-### Step 1: Fork the Repository  
+Step 1: Fork the Repository
 
 <div align="center">  
   <a href="https://github.com/BASH-ha/Anoymous-MD/fork">  
@@ -26,19 +26,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ---
 
-### Step 2: Get Pair Code  
-
-<div align="center">  
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">  
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>  
-  </a>  
-</div>  
-
-### After getting `creds.json` file, upload it to the `session` folder  
-
----
-
-### Step 3: Deploy Now  
+Step 2: Deploy on Hosting Panel
 
 <div align="center">  
   <a href="https://bot-hosting.net/?aff=1068419752923508776">  
@@ -46,71 +34,51 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   </a>  
 </div>  
 
-### Deploy on Katabump  
+---
 
-<div align="center">  
-  <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">  
-    <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>  
-  </a>  
-</div>  
+⚙️ Features
+
+· Tag all group members with .tagall
+· Admin-only commands for security
+· Text-to-Speech using .tts
+· Sticker creation using .sticker
+· Anti-link protection
+· Warn system & moderation tools
 
 ---
 
-### Join Us  
+📖 About
 
-<div align="center">  
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">  
-    <img src="https://img.shields.io/badge/Join Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>  
-  </a>  
-  <a href="https://whatsapp.com/channel/0029VbCTghVBA1f3zXA50Z1z">  
-    <img src="https://img.shields.io/badge/Join WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>  
-  </a>  
-</div>  
+The Anonymous WhatsApp Bot assists group admins by providing powerful tools to manage large WhatsApp groups efficiently.
 
----
-
-## ⚙️ Features  
-
-- **Tag all group members** with `.tagall`  
-- **Admin-only commands** for security  
-- **Text-to-Speech** using `.tts`  
-- **Sticker creation** using `.sticker`  
-- **Anti-link protection**  
-- **Warn system & moderation tools**  
-
----
-
-## 📖 About  
-
-The **Anonymous WhatsApp Bot** assists group admins by providing powerful tools to manage large WhatsApp groups efficiently.  
-
-It uses the **Baileys library**, supports **multi-device**, and runs in a **Node.js environment**.  
+It uses the Baileys library, supports multi-device, and runs in a Node.js environment.
 The bot is lightweight, fast, and easily customizable.
 
 ---
 
-## 🛠️ Setup & Installation  
+🛠️ Setup & Installation
 
-### Prerequisites  
+Prerequisites
 
-- Node.js  
-- Git  
+· Node.js
+· Git
 
-### Installation Steps  
+Installation Steps
 
-1. **Clone the repository**
+1. Clone the repository
+
 ```bash
 git clone https://github.com/BASH-ha/Anoymous-MD.git
 cd Anoymous-MD
 ```
 
-1. Install the dependencies:
+2. Install the dependencies:
 
 ```bash
 npm install
 ```
 
-1. Run the bot:
+3. Run the bot:
 
 ```bash
 node index.js
