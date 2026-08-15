@@ -29,7 +29,7 @@ Step 1: Fork the Repository
 Step 2: Deploy on Hosting Panel
 
 <div align="center">  
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">  
+  <a href="https://legacy.bot-hosting.net/?aff=1281744798277046293">  
     <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>  
   </a>  
 </div>  
