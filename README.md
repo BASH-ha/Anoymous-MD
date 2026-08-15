@@ -36,6 +36,16 @@ Step 2: Deploy on Hosting Panel
 
 ---
 
+### Join Our WhatsApp Channel
+
+<div align="center">  
+  <a href="https://whatsapp.com/channel/0029VbCTghVBA1f3zXA50Z1z">  
+    <img src="https://img.shields.io/badge/Join WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>  
+  </a>  
+</div>  
+
+---
+
 ⚙️ Features
 
 · Tag all group members with .tagall
