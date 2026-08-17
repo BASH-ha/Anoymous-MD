@@ -42,7 +42,6 @@ async function helpCommand(sock, chatId, message) {
 ↯ meme
 ↯ pies
 ↯ simage
-↯ stickertelegram
 ↯ translate
 ↯ wasted
 ↯ warnings
@@ -54,7 +53,6 @@ async function helpCommand(sock, chatId, message) {
 ↯ staff
 ↯ sudo
 ↯ tag
-↯ emojimix
 ↯ chatbot
 ↯ autostatus
 ↯ getpp
@@ -117,7 +115,6 @@ async function helpCommand(sock, chatId, message) {
 
 ━━━ 「 ai menu 」 ━━━
 
-↯ deepseek
 ↯ quran
 ↯ truth
 ↯ dare
